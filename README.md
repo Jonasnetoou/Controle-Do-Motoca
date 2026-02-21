@@ -50,19 +50,19 @@ youtube.com/shorts/V-oulVFKnu0?feature=share
 Você pode organizar os seus prints em uma galeria para que o recrutador veja o cuidado que você teve com a UX (User Experience):
 
 <p align="center">
-  <img src="Corridas.jpeg" width="200" title="Tela de Corridas">
-  <img src="Metas.jpeg" width="200" title="Definição de Metas">
-  <img src="Metas Batidas.jpeg" width="200" title="Feedback de Meta Batida">
+  <img src="assets/Corridas.jpeg" width="200" title="Tela de Corridas">
+  <img src="assets/Metas.jpeg" width="200" title="Definição de Metas">
+  <img src="assets/Metas Batidas.jpeg" width="200" title="Feedback de Meta Batida">
 </p>
 
 <p align="center">
-  <img src="Resultado de ganhos.jpeg" width="200" title="Resumo Financeiro">
-  <img src="Filtro.jpeg" width="200" title="Filtros de Despesas">
-  <img src="Resultado Filtro.jpeg" width="200" title="Resultado Detalhado">
+  <img src="assets/Resultado de ganhos.jpeg" width="200" title="Resumo Financeiro">
+  <img src="assets/Filtro.jpeg" width="200" title="Filtros de Despesas">
+  <img src="assets/Resultado Filtro.jpeg" width="200" title="Resultado Detalhado">
 </p>
 
 <p align="center">
-  <img src="Anotacoes.jpeg" width="200" title="Bloco de Notas">
+  <img src="assets/Anotacoes.jpeg" width="200" title="Bloco de Notas">
 </p>
 
 
