@@ -35,8 +35,39 @@ Este projeto marca o fim da minha fase autodidata. No dia **23 de fevereiro de 2
 
 **Resgate das Lojas Dinâmicas**: Reconstruir a função de adicionar lojas que tive que sacrificar na versão 2.0 por limitações técnicas.
 
+**Escalabilidade**: Preparar o app para que mais colegas possam utilizar a ferramenta com segurança e performance.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+**📸 Demonstração e Visual do App**
+Para comprovar a eficiência do sistema, veja abaixo o funcionamento das principais telas e uma demonstração em vídeo:
+
+**🎥 Vídeo de Demonstração**
+Clique aqui para ver o Controle do Motoca em ação (YouTube Shorts)
+youtube.com/shorts/V-oulVFKnu0?feature=share
+
+**🖼️ Telas do Sistema**
+Você pode organizar os seus prints em uma galeria para que o recrutador veja o cuidado que você teve com a UX (User Experience):
+
+<p align="center">
+  <img src="Corridas.jpeg" width="200" title="Tela de Corridas">
+  <img src="Metas.jpeg" width="200" title="Definição de Metas">
+  <img src="Metas Batidas.jpeg" width="200" title="Feedback de Meta Batida">
+</p>
+
+<p align="center">
+  <img src="Resultado de ganhos.jpeg" width="200" title="Resumo Financeiro">
+  <img src="Filtro.jpeg" width="200" title="Filtros de Despesas">
+  <img src="Resultado Filtro.jpeg" width="200" title="Resultado Detalhado">
+</p>
+
+<p align="center">
+  <img src="Anotacoes.jpeg" width="200" title="Bloco de Notas">
+</p>
+
+
 **Desenvolvido com persistência e rigor por Jonas Neto.**
 
-Escalabilidade: Preparar o app para que mais colegas possam utilizar a ferramenta com segurança e performance.
+
 
 Desenvolvido com persistência e rigor por Jonas Neto.
